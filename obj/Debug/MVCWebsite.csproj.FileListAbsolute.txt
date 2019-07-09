@@ -145,7 +145,6 @@ F:\Projects\Source\GitRepository\Web Application\GitRepository\bin\System.Web.We
 F:\Projects\Source\GitRepository\Web Application\GitRepository\bin\Newtonsoft.Json.xml
 F:\Projects\Source\GitRepository\Web Application\GitRepository\bin\Antlr3.Runtime.pdb
 F:\Projects\Source\GitRepository\Web Application\GitRepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.csprojAssemblyReference.cache
 F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.csproj.CoreCompileInputs.cache
 F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.csproj.CopyComplete
 F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.dll
