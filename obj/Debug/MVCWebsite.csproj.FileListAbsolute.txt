@@ -149,3 +149,4 @@ F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebs
 F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.csproj.CopyComplete
 F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.dll
 F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.pdb
+F:\Projects\Source\GitRepository\Web Application\GitRepository\obj\Debug\MVCWebsite.csprojAssemblyReference.cache
